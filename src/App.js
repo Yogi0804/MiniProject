@@ -20,7 +20,6 @@ const App = () => {
           </Routes>
         </BrowserRouter>
       </ThemeContext.Provider>
-      <test>Test</test>
     </StrictMode>
   );
 };
